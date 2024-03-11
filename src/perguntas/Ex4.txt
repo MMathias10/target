@@ -1,0 +1,6 @@
+Ex4:
+Eu ligaria o primeiro interruptor por um tempo. Logo após, o desligaria e ligaria o segundo, sem mexer no terceiro. Em seguida, iria à primeira sala e olharia a lâmpada. 
+Se ela estivesse desligada, porém quente, corresponderia ao primeiro interruptor; se estivesse ligada, corresponderia ao segundo interruptor; e se estivesse desligada, ao terceiro. 
+Após isso, bastaria apenas ir a outra sala e usar as mesmas lógicas para descobrir a qual interruptor aquela sala pertence e assim descobrir todas as três.
+ 
+ 
