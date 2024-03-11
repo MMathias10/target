@@ -8,7 +8,7 @@ public class Ex1 {
 		k++;
 		soma+=k;
 	}
-		System.out.println(soma);
+		System.out.println(soma);// resposta é 91
 	}
 	
 	
